@@ -13,8 +13,20 @@ include "database.php";
 </head>
 <body>
     
+    <main>
+        <?php foreach ($discs as $info) { ?>
+            <div class="disco">
+                <h2><?php echo $info['image']; ?></h2>
+                <h2><?php echo $info['author']; ?></h2>
+                <h3><?php echo $info['title']; ?></h3>
+                <h3><?php echo $info['year']; ?></h3>
+                <h3><?php echo $info['genre']; ?></h3>
+            </div>
+        <?php } ?> 
 
 
-    
+
+    </main>
+
 </body>
 </html>

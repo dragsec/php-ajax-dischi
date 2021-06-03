@@ -1,0 +1,14 @@
+
+
+main{
+    padding: 50px;
+    margin: auto;
+    background-color: aqua;
+    width: 400px;
+}
+
+.disco{
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+} 
