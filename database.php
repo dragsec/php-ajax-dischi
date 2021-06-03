@@ -21,7 +21,7 @@ $discs =  [
     [
         "image" => "https://images-na.ssl-images-amazon.com/images/I/817nxzXbEYL._AC_SL1200_.jpg",
         "author" => "6ix9ine",
-        "title" => "Day69 Graduation Day",
+        "title" => "Day69: Graduation Day",
         "year" => "2018",
         "genre" => "Rap",
     ],
