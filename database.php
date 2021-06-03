@@ -54,7 +54,7 @@ $discs =  [
         "image" => "https://upload.wikimedia.org/wikipedia/en/9/91/Marilyn_Manson_-_Holy_Wood.png",
         "author" => "Marilyn Manson",
         "title" => "Holy Wood",
-        "year" => "1999",
+        "year" => "2000",
         "genre" => "Industrial",
     ],
 
