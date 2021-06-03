@@ -42,6 +42,22 @@ $discs =  [
         "genre" => "Soundtrack",
     ],
 
+    [
+        "image" => "https://images-na.ssl-images-amazon.com/images/I/A1vy4PUuSCL._AC_SL1500_.jpg",
+        "author" => "Grimes",
+        "title" => "Miss Anthropocene",
+        "year" => "2020",
+        "genre" => "Alternative",
+    ],
+
+    [
+        "image" => "https://upload.wikimedia.org/wikipedia/en/9/91/Marilyn_Manson_-_Holy_Wood.png",
+        "author" => "Marilyn Manson",
+        "title" => "Holy Wood",
+        "year" => "1999",
+        "genre" => "Industrial",
+    ],
+
     
 
 ];
