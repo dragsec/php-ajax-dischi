@@ -16,7 +16,7 @@ include "database.php";
     <main>
         <?php foreach ($discs as $info) { ?>
             <div class="disco">
-                <h2><?php echo $info['image']; ?></h2>
+                <img src="<?php echo $info['image']; ?>" alt="" height="300px">
                 <h2><?php echo $info['author']; ?></h2>
                 <h3><?php echo $info['title']; ?></h3>
                 <h3><?php echo $info['year']; ?></h3>
