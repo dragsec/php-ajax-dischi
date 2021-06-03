@@ -2,10 +2,11 @@
 
 main{
     padding: 50px;
-    background-color: aqua;
 }
 
 .disco{
-    background-color: pink;
-    margin: auto;
+    margin: auto;         
+    text-align: center;
+    padding: 30px;
+    border-bottom: 1px solid;
 } 

@@ -15,7 +15,7 @@ $discs =  [
         "author" => "Blackpink",
         "title" => "The Album",
         "year" => "2020",
-        "genre" => "K-Pop",
+        "genre" => "K-pop",
     ],
 
     [
