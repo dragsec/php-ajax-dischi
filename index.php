@@ -13,14 +13,12 @@
 <body>
 
     <main id="app">
-         <div class="disco">
-             <div @change="fetchData()" v-for="disco in listaDischi">
+             <div class="disco" @change="fetchData()" v-for="disco in listaDischi">
                  <img :src="disco.image" height="300px">
                  <h3>{{disco.title}}</h3>
                  <p>{{disco.author}}</p>
                  <p>{{disco.year}}</p>
              </div>
-         </div>
      </main>
 
     <script src="myScript2.js"></script>
